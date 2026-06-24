@@ -1,0 +1,69 @@
+{
+    "active_models": [
+        {
+            "name": "qwen3.6-max-preview",
+            "expiry": "2026-07-20"
+        },
+        {
+            "name": "kimi-k2.6",
+            "expiry": "2026-07-21"
+        },
+        {
+            "name": "qwen3.5-plus-2026-04-20",
+            "expiry": "2026-07-23"
+        },
+        {
+            "name": "qwen3.6-27b",
+            "expiry": "2026-07-23"
+        },
+        {
+            "name": "deepseek-v4-flash",
+            "expiry": "2026-07-24"
+        },
+        {
+            "name": "deepseek-v4-pro",
+            "expiry": "2026-07-24"
+        },
+        {
+            "name": "qwen3.7-max",
+            "expiry": "2026-08-20"
+        },
+        {
+            "name": "qwen3.7-max-2026-05-20",
+            "expiry": "2026-08-20"
+        },
+        {
+            "name": "qwen3.7-max-2026-05-17",
+            "expiry": "2026-08-24"
+        },
+        {
+            "name": "qwen3.7-max-preview",
+            "expiry": "2026-08-24"
+        },
+        {
+            "name": "qwen3.7-plus",
+            "expiry": "2026-09-01"
+        },
+        {
+            "name": "qwen3.7-plus-2026-05-26",
+            "expiry": "2026-09-01"
+        },
+        {
+            "name": "qwen3.7-max-2026-06-08",
+            "expiry": "2026-09-08"
+        },
+        {
+            "name": "qwen3.5-ocr",
+            "expiry": "2026-09-14"
+        },
+        {
+            "name": "kimi-k2.7-code",
+            "expiry": "2026-09-14"
+        },
+        {
+            "name": "glm-5.2",
+            "expiry": "2026-09-15"
+        }
+    ],
+    "depleted_models": []
+}
