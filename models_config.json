@@ -1,10 +1,6 @@
 {
     "active_models": [
         {
-            "name": "kimi-k2.6",
-            "expiry": "2026-07-21"
-        },
-        {
             "name": "qwen3.5-plus-2026-04-20",
             "expiry": "2026-07-23"
         },
