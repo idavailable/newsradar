@@ -1,10 +1,6 @@
 {
     "active_models": [
         {
-            "name": "qwen3.7-max-2026-06-08",
-            "expiry": "2026-09-08"
-        },
-        {
             "name": "qwen3.5-ocr",
             "expiry": "2026-09-14"
         },
