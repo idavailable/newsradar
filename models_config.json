@@ -1,9 +1,14 @@
 {
-    "active_models": [
-        {
-            "name": "glm-5.2",
-            "expiry": "2026-09-15"
-        }
-    ],
-    "depleted_models": []
+  "active_models": [
+    {"name": "glm-5.2", "expiry": "2026-09-15"},
+    {"name": "qwen3.7-flash-2026-07-15", "expiry": "2026-10-23"},
+    {"name": "qwen3.7-flash", "expiry": "2026-10-23"},
+    {"name": "deepseek-v4-flash-0731", "expiry": "2026-10-31"},
+    {"name": "qwen3.8-max", "expiry": "2026-11-01"},
+    {"name": "qwen3.8-2.4t-a95b", "expiry": "2026-11-12"},
+    {"name": "deepseek-v4-pro-0813", "expiry": "2026-11-13"},
+    {"name": "qwen3.8-27b", "expiry": "2026-11-17"},
+    {"name": "kimi-k3", "expiry": "2026-11-17"}
+  ],
+  "depleted_models": []
 }
