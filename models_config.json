@@ -1,10 +1,6 @@
 {
     "active_models": [
         {
-            "name": "deepseek-v4-flash-0731",
-            "expiry": "2026-10-31"
-        },
-        {
             "name": "qwen3.8-max",
             "expiry": "2026-11-01"
         },
