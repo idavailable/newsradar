@@ -1,13 +1,4 @@
 {
-    "active_models": [
-        {
-            "name": "qwen3.8-27b",
-            "expiry": "2026-11-17"
-        },
-        {
-            "name": "kimi-k3",
-            "expiry": "2026-11-17"
-        }
-    ],
+    "active_models": [],
     "depleted_models": []
 }
